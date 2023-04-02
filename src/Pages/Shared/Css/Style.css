@@ -1,0 +1,45 @@
+.ctext1{
+    color: #19D3AE;
+}
+.ctext3{
+    color: #80382c;
+}
+.chover{
+    transition: 1s;
+}
+.chover:hover{
+    transform: scale(1.1);
+}
+.cbtn1{
+    transition: .5s;
+    transition-delay: .5s;
+}
+.cbtn3{
+    transition: .5s;
+    transition-delay: .5s;
+}
+.cbtn1:hover{
+    background-color: #19D3AE;
+    color: white;
+}
+.cbor1{
+    border: 1px solid #19D3AE;
+    border-radius: 5px;
+}
+.cbor3{
+    border: 1px solid red;
+    border-radius: 5px;
+}
+.cbtn3:hover{
+    background-color: red;
+    color: white;
+}
+.cbor2{
+    border: 1px solid rgb(173, 165, 165);
+}
+.timeCard{
+    background-color: rgb(196, 26, 26);
+}
+.foodCard{
+    background-color: rgb(13, 145, 13);
+}
